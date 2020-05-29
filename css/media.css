@@ -1,0 +1,69 @@
+@media only screen and (max-width: 600px){
+	.navbar-nav>li{
+		width: 100%;
+	}
+	.home{
+		height: auto !important;
+	}
+	.infoblock {
+    width: 90% !important;
+    margin: 5% !important;
+    /* height: 562px!important; */
+}
+#slider img{
+	height: inherit;
+}
+.contact{
+	width: 100% !important;
+}
+.nav-tabs>li{
+	width: 44% !important;
+}
+.nav-tabs {
+    border-bottom: inherit;
+    margin-left: 6%;
+}
+.contact-details{
+    margin-left: 15px;
+}
+.header-row{
+	height: 75px;
+}
+.navbar-inverse{
+	margin: 0 auto !important;
+}
+ul#mainNav{
+	width: 100%;
+	text-align: center;
+}
+#call-number{
+	top:4% !important;
+}
+.toll{
+	padding: 4px 6px !important;
+}
+.project-details h2{
+	margin-left: 12px;
+}
+.abt-content p{
+	font-weight: bold !important;
+}
+#project{
+	padding: 50px 0;
+}
+span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+    .feature-img{
+    	margin: 0 auto;
+    }
+    .about-subtxt p{
+    	text-align: justify;
+    }
+    .navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000 !important;
+}
